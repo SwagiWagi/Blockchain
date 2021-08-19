@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "header": {
+    "version": 1,
+    "height": 0,
+    "previousBlockHash": "00",
+    "difficulty": 2,
+    "rewardAmount": 100.0,
+    "hash": "00507aa787d6521e3eed9048360d432c11cdaa83121b7dfcf13d3b0a42d6f174",
+    "merkleRoot": "1feaa56a6133182f77bcac83f1ddc18594b51f7123f142b57dc3ce4d4a428b1e",
+    "timeStamp": {
+      "seconds": 1611866187,
+      "nanos": 570197000
+    },
+    "nonce": 72,
+    "minerPublicKey": "qEJpF2xnPQzfxnDS4yRFgf6VurngnbT1yLeXnR2CEANt"
+  },
+  "body": {
+    "version": 1,
+    "transactions": [
+      {
+        "amount": 100.0,
+        "type": "Payment",
+        "fromKey": "287LckL8T7jEusoeV7dwu94hut96e5dxXSn9x1gHTkVrw",
+        "toKey": "qEJpF2xnPQzfxnDS4yRFgf6VurngnbT1yLeXnR2CEANt",
+        "previousTransactionHash": "0",
+        "hash": "ff605a96aeeaeca34781510e8f866c36085e5342ebe9b74f7dbaeaeed0db6d4a",
+        "signature": null,
+        "timeStamp": {
+          "seconds": 1611866187,
+          "nanos": 516340800
+        }
+      }
+    ]
+  }
+}
